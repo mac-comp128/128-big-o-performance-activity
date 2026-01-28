@@ -1,3 +1,3 @@
-# Project Title Goes Here
+# Big-O Practice and Performance Activity
 
-Info about your project goes here
+[Assignment Instructions](https://docs.google.com/document/d/1PwcKlyhxgkRGV5C9KcStjDmHCgNghyUdgIbTBW-3RME/edit?usp=sharing)
